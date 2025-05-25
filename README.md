@@ -11,4 +11,5 @@ https://github.com/lan14062004/Du-an-da-lam/blob/main/B%C3%A1o%20c%C3%A1o%20NCKH
 https://colab.research.google.com/drive/1Z56rO8ZWCQT3FflxUSazkcSUr0bf-SzP#scrollTo=eBrz_ye8UfjM
 
 Để xem rõ bài báo cáo, anh/chị hãy bấm vào phần mô tả đã Update README với tên file là "Báo cáo Đồ án.pdf" hoặc click vào đường link sau đây và tải file bài báo cáo về:
+https://github.com/lan14062004/Du-an-da-lam/blob/main/B%C3%A1o%20c%C3%A1o%20%C4%90%E1%BB%93%20%C3%A1n.pdf
 
